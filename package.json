@@ -1,0 +1,22 @@
+{
+  "name": "my-first-webserver",
+  "version": "1.0.0",
+  "description": "\"Contains a simple web server.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"sadieamato\""
+  },
+  "keywords": [
+    "\"web\"",
+    "\"server\""
+  ],
+  "author": "\"sadieamato\"",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
